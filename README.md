@@ -1,1 +1,5 @@
-# 100_days_of_code_python
+# 100 day of code Python Pro Bootcamp 2023
+
+https://www.udemy.com/course/100-days-of-code/
+
+100 days of Python coding with a new challenge every day
