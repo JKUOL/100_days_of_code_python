@@ -9,7 +9,6 @@ Hometown: The name of the user's hometown.
 First Pet's Name: The name of the user's first pet.
 After the user inputs this information, the script combines these two names to create a fun and personalized band name.
 
-
 ## Educational Value
 This script is particularly useful for beginners in Python for several reasons:
 
