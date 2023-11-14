@@ -1,6 +1,6 @@
 # Band Name Generator
 
-This Python script is an interactive tool designed to generate a unique band name based on user input. It's a simple, beginner-friendly project that is perfect for those just starting out with programming in Python.
+This Python script is an interactive tool designed to generate a unique band name based on user input. 
 
 ## How It Works
 When run, the script asks for two pieces of information from the user:
@@ -9,15 +9,6 @@ Hometown: The name of the user's hometown.
 First Pet's Name: The name of the user's first pet.
 After the user inputs this information, the script combines these two names to create a fun and personalized band name.
 
-## Example
-
-What is the name of your hometown?
-Austin
-
-What's the name of your first pet?
-Whiskers
-
-The name of your band is Austin Whiskers
 
 ## Educational Value
 This script is particularly useful for beginners in Python for several reasons:
