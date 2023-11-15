@@ -46,6 +46,7 @@ Command Line Interface: Access to a terminal (macOS/Linux) or Command Prompt/Pow
 Standard Python Libraries: The game is built using only the Python Standard Library; no additional installations are needed.
 
 ## Instructions to Run the Game
+
 Clone or download the treasure_island.py script from the repository.
 Open your terminal or command line interface.
 Change the directory to where you have saved the treasure_island.py script.
