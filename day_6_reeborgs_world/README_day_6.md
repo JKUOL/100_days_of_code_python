@@ -6,8 +6,11 @@ Reeborg's World features a virtual robot named Reeborg that the user can control
 
 ## Key Features
 Interactive Puzzles: A variety of puzzles that range in difficulty from beginner to advanced levels.
+
 Customizable Challenges: Users can create and share their own mazes and challenges.
+
 Immediate Feedback: The platform provides instant feedback on the code, helping users learn from their mistakes.
+
 Visual Learning: Users can see the immediate results of their code, making abstract programming concepts more tangible.
 
 ## Learning Outcomes
