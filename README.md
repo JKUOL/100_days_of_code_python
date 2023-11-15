@@ -16,4 +16,4 @@ Day 5: Password Generator
 
 Day 6: Reeborgs World loops
 
-Day 7:
+Day 7: Hangman
