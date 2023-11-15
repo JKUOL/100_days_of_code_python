@@ -17,8 +17,11 @@ Visual Learning: Users can see the immediate results of their code, making abstr
 Users can expect to learn and enhance their skills in:
 
 Basic Syntax: Understanding the structure and syntax of programming languages.
+
 Control Structures: Using loops, conditionals, and functions to control flow.
+
 Problem-Solving: Developing logical thinking and problem-solving skills.
+
 Debugging: Learning to debug by watching the robot and understanding where it may go wrong.
 
 ## Getting Started
