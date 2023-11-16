@@ -21,3 +21,4 @@ fin_amount = round(pp + pp * (tipp / 100), 2)
 print(f"Each person should pay: {fin_amount}")
 
 
+
