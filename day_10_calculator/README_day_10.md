@@ -1,39 +1,37 @@
-### First Price Sealed Auction
-
-This Python script simulates a first-price sealed auction, where participants submit their bids secretly, and the highest bid wins. The winner is the one who offers the highest price, and they pay the amount of their bid.
+### Calculator
+This Python script is a simple text-based calculator that performs basic arithmetic operations. It features a graphical interface using ASCII art to represent the calculator, and it can handle addition, subtraction, multiplication, and division.
 
 ## Features
-Secret Bidding: Allows users to place their bids without knowing the bids of others.
+Basic Operations: Performs addition, subtraction, multiplication, and division.
 
-Multiple Participants: The auction can handle multiple bidders.
+Continuous Calculations: Allows for continuous operations using the result of the previous calculation as a starting point.
 
-Winner Calculation: Automatically calculates and announces the highest bidder and their bid amount.
+ASCII Art Interface: Features a stylized interface represented with ASCII art to emulate the appearance of a calculator.
+
+Input Validation: Prompts the user to continue calculations or start fresh with new inputs.
 
 ## Requirements
-Python: This script is written in Python and requires Python to be installed on your system. It is compatible with Python 3.x.
+Python: The calculator is written in Python and requires Python to be installed on your system. It works best with Python 3.x.
 
-Operating System: This script is designed to work on Windows, macOS, and Linux operating systems.
+Operating System: Compatible with any OS that can run Python, including Windows, macOS, and Linux.
 
-Additional Files: This script imports a clear function from clear_function and a logo from day_9_art. Ensure these files are in the same directory as the main script.
+Terminal or Command Line: The calculator runs in the terminal or command prompt.
 
 ## Instructions
-Save the script as sealed_auction.py on your computer.
-Ensure that the clear_function and day_9_art files are in the same directory.
+Save the script as calculator.py on your computer.
 Open your terminal or command line interface.
 Navigate to the directory where you saved the script.
-Run the script by typing python sealed_auction.py and press Enter.
-Follow the on-screen prompts to enter bidders' names and their bids.
-Continue to enter bids as prompted or conclude the auction to see the result.
+Run the script by typing python calculator.py and press Enter.
+Follow the on-screen prompts to perform calculations.
+After each operation, choose to continue with the result, start a new calculation, or exit the program.
 
 ## Educational Value
-This script is a practical demonstration of:
+This script provides an excellent opportunity to learn about:
 
-Dictionary Usage: Utilizes Python dictionaries to store bidder names and their corresponding bids.
+Functions: How to define and use functions in Python.
 
-Looping: Implements a while loop to continuously accept new bidders until the user decides to stop.
+Dictionaries: Using dictionaries to store operation functions as values.
 
-Function Definition: Demonstrates creating and using functions in Python.
+Loops: Utilizing while loops for repeated operations.
 
-User Input Handling: Processes and validates user inputs.
-
-This sealed auction script offers a fun way to understand basic Python concepts and how they can be applied to create a functional application.
+Error Handling: Implementing basic input validation to guide the user experience.
