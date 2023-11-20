@@ -1,0 +1,3 @@
+.DS_Store # Add .DS_Store to .gitignore to prevent it from being tracked 
+__pycache__/ ## Add __pycache__ to prevent it from beeing tracked
+
