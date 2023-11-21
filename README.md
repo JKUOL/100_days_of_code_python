@@ -25,3 +25,5 @@ Day 9: Secret Auction
 Day 10: Calculator
 
 Day 11: Black Jack
+
+Day 12: Number Guessing
