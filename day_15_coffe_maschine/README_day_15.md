@@ -1,30 +1,31 @@
-# Python Instagram Followers Game README
+# Python Coffee Machine Program README
 
 ## Introduction
-Step into the Instagram arena with this Python-based game that pits two Instagram accounts against each other. As the player, you will decide which account you believe has more followers. This script is a fun way to apply your knowledge of popular culture and intuition in a simple text-based format.
+Experience the role of a barista with this Python-based coffee machine program. Engage in a virtual coffee shop environment where you can prepare espresso, latte, and cappuccino for your customers. This script offers a mix of resource management, basic accounting, and user interaction in a simple text-based interface.
 
 ## Features
-- **Random Account Selection**: Randomly selects Instagram accounts from a provided dataset to compare.
-- **Data Formatting**: Formats the account data to be presentable and understandable for the player.
-- **Answer Verification**: Checks the player's guess against the actual follower counts to determine correctness.
-- **Score Tracking**: Keeps track of the player's score throughout the session.
-- **Replayability**: Allows players to start a new game after the previous one ends.
+- **Dynamic Menu**: Offers a selection of coffee drinks with varying ingredients and costs.
+- **Resource Checking**: Ensures that the coffee machine has enough ingredients to make the chosen drink.
+- **Coin Processing**: Calculates the total amount of money inserted by the customer.
+- **Transaction Validation**: Checks if the customer has provided enough money for the drink.
+- **Coffee Production**: Simulates the making of a coffee by updating the resources after each drink.
 
 ## Requirements
-- **Python**: The game requires Python to be installed, compatible with Python 3.x.
-- **Operating System**: Compatible with any operating system that supports Python, including Windows, macOS, and Linux.
-- **Command Line Interface**: To play the game, access is needed to a terminal or command prompt.
+- **Python**: Requires Python to be installed, compatible with Python 3.x.
+- **Operating System**: Can run on any operating system that supports Python, including Windows, macOS, and Linux.
+- **Command Line Interface**: To interact with the program, access to a terminal or command prompt is needed.
 
 ## Instructions
-1. Save the script as `day_14_low_higher_game.py` on your computer.
-2. Make sure that the `clear_function.py`, `day_14_art.py`, and `day_14_data.py` files are in the same directory as the main script.
+1. Save the script as `day_15_coffee_machine.py` on your computer.
+2. Ensure the `clear_function.py` is in the same directory as the main script.
 3. Run the script.
-4. Follow the on-screen instructions to choose between Account A and Account B.
-5. After each round, you can choose to play again or exit the game.
+4. Follow the on-screen prompts to select your coffee drink and process payment.
+5. Use 'off' to turn off the machine, or 'report' to print the current resource levels and money earned.
+6. If a drink is selected, follow the instructions to insert coins and complete the transaction.
 
 ## Educational Value
-- **Randomness in Python**: Uses the `random` module to select random elements from a list.
-- **Function Definition and Calls**: Demonstrates how to define and call Python functions to organize code.
-- **Infinite Looping with Condition**: Shows the use of a `while` loop that continues until a certain condition is false.
-- **User Input Handling**: Captures and processes user input for interactive gameplay.
-- **String Formatting**: Utilizes Python's string formatting capabilities to display information neatly.
+- **Python Dictionaries**: Demonstrates the use of dictionaries to store menu items and resources.
+- **Control Flow**: Implements if-else statements for decision-making processes.
+- **While Loops**: Uses while loops for the main execution of the program to handle continuous operation.
+- **Function Definitions**: Showcases the creation and use of functions to perform specific tasks and keep the code organized.
+- **Global Variables**: Utilizes global variables to track resources and profit within the scope of the program.
