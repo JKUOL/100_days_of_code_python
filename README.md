@@ -39,3 +39,5 @@ Day 16: Coffe Maschine in OOP
 Day 17: Quizz
 
 Day 18: Damien Hirst Art Simulator
+
+Day 19: Turtle Race
