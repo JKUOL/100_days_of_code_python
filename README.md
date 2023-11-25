@@ -41,3 +41,5 @@ Day 17: Quizz
 Day 18: Damien Hirst Art Simulator
 
 Day 19: Turtle Race
+
+Day 20: Snake Game Part 1
