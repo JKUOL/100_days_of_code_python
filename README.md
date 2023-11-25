@@ -35,3 +35,7 @@ Day 14: Lower Higher Game
 Day 15: Coffe Maschine
 
 Day 16: Coffe Maschine in OOP
+
+Day 17: Quizz
+
+Day 18: Damien Hirst Art Simulator
