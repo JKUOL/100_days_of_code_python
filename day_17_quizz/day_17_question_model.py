@@ -1,5 +1,5 @@
 
-# Define a class Question to store information about a quiz question.
+# Define a class Question.
 class Question:
     # Initialize method to create a new Question object with text and answer.
     def __init__(self, q_text, q_answer):
